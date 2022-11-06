@@ -1,11 +1,11 @@
 .navbar{
-    font-family: sans-serif;
-    width: 100vw;
-    height: 81px;
-    background-color: #1d2126;
     display: flex;
     justify-content: space-evenly;
     align-items: center;
+    font-family: sans-serif;
+    width: 98.75vw;
+    height: 81px;
+    background-color: #1d2126;
 }
 .navbar img{
     width: 100%;
@@ -18,7 +18,7 @@
     padding: 5px 10px;
     border-radius:5px ;
     background-color: transparent;
-    margin: 5px;
+    margin-left: 5px;
     border: 2px solid transparent;
 }
 .nav-btn:nth-of-type(1){
