@@ -1,5 +1,31 @@
 .navbar{
+    font-family: sans-serif;
     width: 100vw;
     height: 81px;
     background-color: #1d2126;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.navbar img{
+    width: 100%;
+}
+.nav-btn{
+    font-size: 12px;
+    text-transform: uppercase;
+    color: #a4aead;
+    font-weight: 500;
+    padding: 5px 10px;
+    border-radius:5px ;
+    background-color: transparent;
+    margin: 5px;
+    border: 2px solid transparent;
+}
+.nav-btn:nth-of-type(1){
+    border-color:  #23b7a4;
+    color:  #23b7a4;
+}
+.nav-btn:hover{
+    border-color: #a4aead;
+    transition: 0.3s;
 }
