@@ -1,0 +1,41 @@
+.work{
+    background-color: #3a454d;
+    padding-bottom: 5%;
+}
+.work h1 {
+    text-transform: uppercase;
+    font-size: 36px;
+    line-height: 42px;
+    color: white;
+    font-weight: 500;
+}
+.work h1 span {
+    display: inline-block;
+    width: 10px;
+    height: 35px;
+    background-color: #4e5a62;
+    margin: 3% 0 0 15%;
+}
+.work-gallery{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    flex-wrap: wrap;
+ 
+}
+.work-gallery img{
+    margin: 1em;
+    opacity: 0.7;
+
+
+}
+img{
+    width: 27.8%;
+}
+.work-gallery div{
+    display: flex;
+    justify-content: center;
+}
+.work-gallery div:nth-of-type(2){
+    margin-bottom: 3%;
+}

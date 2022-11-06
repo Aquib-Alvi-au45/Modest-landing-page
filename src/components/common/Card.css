@@ -1,0 +1,22 @@
+.card{
+    text-align: center;
+    margin: 1em;
+    width: 15.8vw;
+    margin-top: 3em;
+}
+.card img{
+    width: 2vw;
+}
+
+.card h3{
+    font-size: 17px;
+    text-transform: uppercase;
+    color: #292f36;
+    font-weight: 600;
+}
+.card p{
+    font-size: 16px;
+line-height: 26px;
+color: #8d8f92;
+font-weight: 400;
+}

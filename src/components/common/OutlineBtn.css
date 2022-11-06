@@ -1,0 +1,15 @@
+.outline-btn{
+    color: white;
+    text-transform: uppercase;
+    background-color: transparent;
+    border: 3px solid white;
+    padding: 10px 20px;
+    border-radius: 3px;
+    margin-left: 10px;
+}
+
+
+.outline-btn:hover{
+    box-shadow: 1px 0px 10px white;
+    transition: 0.3s;
+}

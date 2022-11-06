@@ -1,0 +1,25 @@
+.home {
+    background: #3a454d url('../assets/home-page.png') no-repeat;
+    height: 85vh;
+}
+
+.home h1 {
+    margin: 0;
+    font-size: 36px;
+    line-height: 42px;
+    text-transform: uppercase;
+    color: #ffffff;
+    font-weight: 200;
+    font-family: sans-serif;
+}
+
+.home p {
+    font-size: 16px;
+    line-height: 26px;
+    color: #ccd0d7;
+    font-weight: 400;
+    font-family: sans-serif;
+}
+.home div{
+    padding: 13% 0 0 17%;
+}

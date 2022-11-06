@@ -1,0 +1,99 @@
+.about {
+    border-bottom: 2px solid #c8cdd0;
+}
+
+.about h1 {
+    text-transform: uppercase;
+    font-size: 36px;
+    line-height: 42px;
+    color: #616161;
+    font-weight: 500;
+}
+
+.about h1 span {
+    display: inline-block;
+    width: 10px;
+    height: 35px;
+    background-color: #e1e6ea;
+    margin: 3% 0 0 15%;
+}
+
+.about p {
+    font-size: 16px;
+    line-height: 26px;
+    color: #8d8f92;
+    font-weight: 400;
+}
+
+.social-btn {
+    color: white;
+    padding: 10px 10px 5px 10px;
+    font-size: 1.5em;
+    background-color: #c7cdd0;
+    border: none;
+    border-radius: 2px;
+    margin-left: 0.2%;
+}
+
+.about-main {
+    display: flex;
+    justify-content: center;
+}
+
+.main-left {
+    width: 35%;
+    font-size: 12px;
+    letter-spacing: 0;
+}
+
+.main-right {
+    width: 35%;
+}
+
+.article {
+    display: flex;
+    justify-content: space-around;
+
+}
+
+.num-box {
+    font-size: 20px;
+    background-color: #23b7a4;
+    margin-right: 20px;
+    margin-top: 20px;
+    padding: 10px 15px 15px 15px;
+    height: 20px;
+    color: white;
+
+}
+
+.article h2 {
+    text-transform: uppercase;
+    font-weight: 400;
+}
+
+.social-btn:nth-of-type(1):hover {
+    color: #3b5998;
+    background-color: white;
+    transition: 0.2s;
+}
+.social-btn:nth-of-type(2):hover {
+    color: #00acee;
+    background-color: white;
+    transition: 0.2s;
+}
+.social-btn:nth-of-type(3):hover {
+    color: 	#4285F4;
+    background-color: white;
+    transition: 0.2s;
+}
+.social-btn:nth-of-type(4):hover {
+    color: #444444;
+    background-color: white;
+    transition: 0.2s;
+}
+.social-btn:nth-of-type(5):hover {
+    color: #053eff;
+    background-color: white;
+    transition: 0.2s;
+}

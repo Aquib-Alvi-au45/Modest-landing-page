@@ -1,0 +1,51 @@
+.feature {
+    background-color: #3a454d;
+    font-family: sans-serif;
+}
+
+.feature h1 {
+    text-transform: uppercase;
+    font-size: 36px;
+    line-height: 42px;
+    color: #ffffff;
+    font-weight: 500;
+}
+
+.feature h1 span {
+    display: inline-block;
+    width: 10px;
+    height: 35px;
+    background-color: #4e5a62;
+    margin: 4% 0 0 15%;
+}
+
+
+.feature-gallery {
+    display: flex;
+    margin: 3% 0 0 15%;
+
+}
+
+.feature-gallery div img,
+.feature-gallery div {
+    width: 23vw;
+}
+
+.feature-gallery div {
+    margin-right: 3%;
+}
+
+.feature-gallery div h3 {
+    font-size: 16px;
+    line-height: 42px;
+    text-transform: uppercase;
+    color: #ffffff;
+    font-weight: 500;
+}
+.feature-gallery div p{
+height: 185px;
+font-size: 14px;
+line-height: 26px;
+color: #dcdfe1;
+font-weight: 400;
+} 

@@ -1,0 +1,14 @@
+.landing-btn{
+    color: white;
+    text-transform: uppercase;
+    background-color: #23b7a4;
+    padding: 10px 20px;
+    border:3px solid #23b7a4;
+    border-radius: 3px;
+
+}
+
+.landing-btn:hover{
+    background-color:#5ebeb2 ;
+    border-color:#5ebeb2 ;
+}
